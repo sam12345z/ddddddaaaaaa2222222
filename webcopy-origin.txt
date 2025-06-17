@@ -1,0 +1,2624 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js
+File Name: C:\Downloaded Web Sites\dimden.dev\ajax\libs\highlight.js\11.9.0\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/javascript.min.js
+File Name: C:\Downloaded Web Sites\dimden.dev\ajax\libs\highlight.js\11.9.0\languages\javascript.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/markdown-it/10.0.0/markdown-it.min.js
+File Name: C:\Downloaded Web Sites\dimden.dev\ajax\libs\markdown-it\10.0.0\markdown-it.min.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/
+File Name: C:\Downloaded Web Sites\dimden.dev\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/about.html
+File Name: C:\Downloaded Web Sites\dimden.dev\about.html
+Content Type: text/html
+
+Uri: https://dimden.dev/basketball/
+File Name: C:\Downloaded Web Sites\dimden.dev\basketball\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/beautifier/
+File Name: C:\Downloaded Web Sites\dimden.dev\beautifier\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/beautifier/ace.min.js
+File Name: C:\Downloaded Web Sites\dimden.dev\beautifier\ace.min.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/beautifier/ext-language_tools.min.js
+File Name: C:\Downloaded Web Sites\dimden.dev\beautifier\ext-language_tools.min.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/beautifier/style.css
+File Name: C:\Downloaded Web Sites\dimden.dev\beautifier\style.css
+Content Type: text/css
+
+Uri: https://dimden.dev/blog/?id=1-hello-world
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index-10.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/?id=10-making-tetris-twitter-bot-with-node-js
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index-2.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/?id=12-custom-profile-css-in-oldtwitter
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index-1.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/?id=13-optimizing-rendering-of-100k-html-nodes
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/?id=2-chip8js-my-first-emulator
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index-9.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/?id=3-multiline-task-hello-world
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index-8.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/?id=4-the-puzzle-3-and-stuff
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index-7.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/?id=5-the-migration
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index-6.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/?id=6-brainfuck-js
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index-5.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/?id=7-utix-website
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index-4.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/?id=8-the-migration-2
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index-3.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/?id=9-utix-the-ultimate-discord-bot
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\index-11.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/blog/hetzneruptime.png
+File Name: C:\Downloaded Web Sites\dimden.dev\blog\hetzneruptime.png
+Content Type: image/png
+
+Uri: https://dimden.dev/blogindex
+File Name: C:\Downloaded Web Sites\dimden.dev\blogindex.html
+Content Type: text/html
+
+Uri: https://dimden.dev/chip8/
+File Name: C:\Downloaded Web Sites\dimden.dev\chip8\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/chip8/emu.js
+File Name: C:\Downloaded Web Sites\dimden.dev\chip8\emu.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/chip8/script.js
+File Name: C:\Downloaded Web Sites\dimden.dev\chip8\script.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/clockroom.html
+File Name: C:\Downloaded Web Sites\dimden.dev\clockroom.html
+Content Type: text/html
+
+Uri: https://dimden.dev/complex.html
+File Name: C:\Downloaded Web Sites\dimden.dev\complex.html
+Content Type: text/html
+
+Uri: https://dimden.dev/css/about.css
+File Name: C:\Downloaded Web Sites\dimden.dev\css\about.css
+Content Type: text/css
+
+Uri: https://dimden.dev/css/main.css
+File Name: C:\Downloaded Web Sites\dimden.dev\css\main-1.css
+Content Type: text/css
+
+Uri: https://dimden.dev/css/main.css?3
+File Name: C:\Downloaded Web Sites\dimden.dev\css\main.css
+Content Type: text/css
+
+Uri: https://dimden.dev/cyberbiology/
+File Name: C:\Downloaded Web Sites\dimden.dev\cyberbiology\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/cyberbiology/app.js
+File Name: C:\Downloaded Web Sites\dimden.dev\cyberbiology\app.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/cyberbiology/Pixel_NES.eot?
+File Name: C:\Downloaded Web Sites\dimden.dev\cyberbiology\Pixel_NES.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dimden.dev/cyberbiology/Pixel_NES.svg
+File Name: C:\Downloaded Web Sites\dimden.dev\cyberbiology\Pixel_NES.svg
+Content Type: image/svg+xml
+
+Uri: https://dimden.dev/cyberbiology/Pixel_NES.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\cyberbiology\Pixel_NES.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/cyberbiology/Pixel_NES.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\cyberbiology\Pixel_NES.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/cyberbiology/style.css
+File Name: C:\Downloaded Web Sites\dimden.dev\cyberbiology\style.css
+Content Type: text/css
+
+Uri: https://dimden.dev/donate/
+File Name: C:\Downloaded Web Sites\dimden.dev\donate\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/favicon.ico
+File Name: C:\Downloaded Web Sites\dimden.dev\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://dimden.dev/favicon.png
+File Name: C:\Downloaded Web Sites\dimden.dev\favicon.png
+Content Type: image/png
+
+Uri: https://dimden.dev/fonts/
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/fonts/DeterminationMonoWebRegular-Z5oq.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\DeterminationMonoWebRegular-Z5oq.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/fonts/DeterminationSansWebRegular-369X.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\DeterminationSansWebRegular-369X.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/fonts/Digital-7.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\Digital-7-1.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/fonts/Digital-7.ttf?
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\Digital-7.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/fonts/DungGeunMo.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\DungGeunMo.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/ipag-mona.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\ipag-mona.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/fonts/ipag-mona.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\ipag-mona.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/ipagui-mona.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\ipagui-mona.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/fonts/Minecraft.otf
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\Minecraft.otf
+Content Type: font/otf
+
+Uri: https://dimden.dev/fonts/MS-UIGothic.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\MS-UIGothic.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/fonts/Perfect DOS VGA 437 Win.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\Perfect DOS VGA 437 Win-1.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/fonts/Perfect DOS VGA 437 Win.ttf?
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\Perfect DOS VGA 437 Win.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Acer710_CGA-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Acer710_CGA-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Acer710_CGA.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Acer710_CGA.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Acer710_Mono.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Acer710_Mono.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Acer_VGA_8x8-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Acer_VGA_8x8-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Acer_VGA_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Acer_VGA_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Acer_VGA_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Acer_VGA_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ACM_VGA_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ACM_VGA_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ACM_VGA_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ACM_VGA_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ACM_VGA_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ACM_VGA_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ACM_VGA_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ACM_VGA_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ACM_VGA_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ACM_VGA_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ACM_VGA_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ACM_VGA_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_AMI_EGA_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_AMI_EGA_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_AMI_EGA_8x8-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_AMI_EGA_8x8-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_AMI_EGA_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_AMI_EGA_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_AMI_EGA_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_AMI_EGA_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Amstrad_PC-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Amstrad_PC-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Amstrad_PC.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Amstrad_PC.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ApricotPortable.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ApricotPortable.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ApricotXenC.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ApricotXenC.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Apricot_200L-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Apricot_200L-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Apricot_200L.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Apricot_200L.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Apricot_256L-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Apricot_256L-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Apricot_256L.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Apricot_256L.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Apricot_Mono.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Apricot_Mono.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_AST_PremiumExec.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_AST_PremiumExec.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ATI_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ATI_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ATI_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ATI_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ATI_8x8-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ATI_8x8-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ATI_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ATI_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ATI_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ATI_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ATI_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ATI_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ATI_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ATI_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ATI_SmallW_6x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ATI_SmallW_6x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ATT_PC6300-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ATT_PC6300-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ATT_PC6300.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ATT_PC6300.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_CL_EagleIII_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_CL_EagleIII_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_CL_EagleIII_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_CL_EagleIII_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_CL_EagleII_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_CL_EagleII_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_CL_EagleII_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_CL_EagleII_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_CL_Stingray_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_CL_Stingray_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_CL_Stingray_8x16_bold.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_CL_Stingray_8x16_bold.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_CL_Stingray_8x19.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_CL_Stingray_8x19.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_CL_Stingray_8x19_bold.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_CL_Stingray_8x19_bold.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_CompaqThin_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_CompaqThin_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_CompaqThin_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_CompaqThin_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_CompaqThin_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_CompaqThin_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Compaq_Port3-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Compaq_Port3-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Compaq_Port3.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Compaq_Port3.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Compis.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Compis.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Copam_BIOS-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Copam_BIOS-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Copam_BIOS.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Copam_BIOS.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Cordata_PPC-21.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Cordata_PPC-21.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Cordata_PPC-400.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Cordata_PPC-400.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DG_One-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DG_One-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DG_One-2y_bold.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DG_One-2y_bold.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DG_One.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DG_One.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DG_One_bold.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DG_One_bold.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_re_ANK16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_re_ANK16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_re_ANK19.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_re_ANK19.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_re_ANK24.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_re_ANK24.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_re_ANK30.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_re_ANK30.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_re_JPN12.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_re_JPN12.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_re_JPN16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_re_JPN16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_re_JPN19.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_re_JPN19.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_re_JPN24.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_re_JPN24.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_re_JPN30.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_re_JPN30.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_re_PRC16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_re_PRC16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_re_PRC19.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_re_PRC19.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_TWN16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_TWN16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DOS-V_TWN19.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DOS-V_TWN19.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DTK_BIOS-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DTK_BIOS-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_DTK_BIOS.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_DTK_BIOS.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EagleSpCGA_Alt1-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EagleSpCGA_Alt1-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EagleSpCGA_Alt1.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EagleSpCGA_Alt1.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EagleSpCGA_Alt2-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EagleSpCGA_Alt2-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EagleSpCGA_Alt2.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EagleSpCGA_Alt2.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EagleSpCGA_Alt3-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EagleSpCGA_Alt3-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EagleSpCGA_Alt3.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EagleSpCGA_Alt3.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EpsonMGA-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EpsonMGA-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EpsonMGA.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EpsonMGA.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EpsonMGA_Alt-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EpsonMGA_Alt-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EpsonMGA_Alt.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EpsonMGA_Alt.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EpsonMGA_Mono.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EpsonMGA_Mono.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EuroPC_CGA-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EuroPC_CGA-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EuroPC_CGA.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EuroPC_CGA.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EuroPC_Mono.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EuroPC_Mono.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EverexME_5x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EverexME_5x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EverexME_7x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EverexME_7x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_EverexME_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_EverexME_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_FMTowns_re_8x16-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_FMTowns_re_8x16-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_FMTowns_re_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_FMTowns_re_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_FMTowns_re_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_FMTowns_re_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_HP_100LX_10x11.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_HP_100LX_10x11.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_HP_100LX_16x12.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_HP_100LX_16x12.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_HP_100LX_6x8-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_HP_100LX_6x8-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_HP_100LX_6x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_HP_100LX_6x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_HP_100LX_8x8-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_HP_100LX_8x8-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_HP_100LX_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_HP_100LX_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_HP_150_re.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_HP_150_re.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_3270pc.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_3270pc.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_BIOS-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_BIOS-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_BIOS-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_BIOS-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_BIOS.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_BIOS.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_CGA-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_CGA-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_CGA.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_CGA.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_CGAthin-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_CGAthin-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_CGAthin.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_CGAthin.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_Conv-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_Conv-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_Conv-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_Conv-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_Conv.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_Conv.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_DOS_ISO8-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_DOS_ISO8-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_DOS_ISO8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_DOS_ISO8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_DOS_ISO9-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_DOS_ISO9-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_DOS_ISO9.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_DOS_ISO9.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_EGA_8x14-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_EGA_8x14-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_EGA_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_EGA_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_EGA_8x8-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_EGA_8x8-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_EGA_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_EGA_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_EGA_9x14-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_EGA_9x14-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_EGA_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_EGA_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_EGA_9x8-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_EGA_9x8-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_EGA_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_EGA_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_MDA.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_MDA.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_Model30r0-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_Model30r0-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_Model30r0.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_Model30r0.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_Model3x_Alt1.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_Model3x_Alt1.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_Model3x_Alt2.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_Model3x_Alt2.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_Model3x_Alt3.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_Model3x_Alt3.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_Model3x_Alt4.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_Model3x_Alt4.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_PGC-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_PGC-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_PGC.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_PGC.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_PS-55_re.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_PS-55_re.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_VGA_8x14-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_VGA_8x14-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_VGA_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_VGA_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_VGA_8x16-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_VGA_8x16-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_VGA_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_VGA_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_VGA_9x14-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_VGA_9x14-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_VGA_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_VGA_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_VGA_9x16-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_VGA_9x16-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_VGA_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_VGA_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_VGA_9x8-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_VGA_9x8-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_VGA_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_VGA_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_XGA-AI_12x20.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_XGA-AI_12x20.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_XGA-AI_12x23.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_XGA-AI_12x23.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IBM_XGA-AI_7x15.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IBM_XGA-AI_7x15.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IGS_VGA_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IGS_VGA_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_IGS_VGA_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_IGS_VGA_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ITT_Xtra-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ITT_Xtra-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ITT_Xtra.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ITT_Xtra.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Kaypro2K_G-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Kaypro2K_G-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Kaypro2K_G.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Kaypro2K_G.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_LE_Model_D_CGA-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_LE_Model_D_CGA-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_LE_Model_D_CGA.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_LE_Model_D_CGA.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_LE_Model_D_Mono.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_LE_Model_D_Mono.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Master_512-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Master_512-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Master_512-2y_bold.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Master_512-2y_bold.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Master_512-M7.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Master_512-M7.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Master_512-M7_bold.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Master_512-M7_bold.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Master_512.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Master_512.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Master_512_bold.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Master_512_bold.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_MBytePC230_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_MBytePC230_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_MBytePC230_CGA-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_MBytePC230_CGA-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_MBytePC230_CGA.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_MBytePC230_CGA.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_MBytePC230_EGA.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_MBytePC230_EGA.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_MBytePC230_Mono.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_MBytePC230_Mono.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Mindset-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Mindset-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Mindset-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Mindset-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Mindset.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Mindset.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_NEC_APC3_8x16-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_NEC_APC3_8x16-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_NEC_APC3_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_NEC_APC3_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_NEC_APC3_8x8-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_NEC_APC3_8x8-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_NEC_APC3_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_NEC_APC3_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_NEC_MultiSpeed-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_NEC_MultiSpeed-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_NEC_MultiSpeed-2x_bold.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_NEC_MultiSpeed-2x_bold.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_NEC_MultiSpeed.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_NEC_MultiSpeed.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_NEC_MultiSpeed_bold.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_NEC_MultiSpeed_bold.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Nix8810_M15.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Nix8810_M15.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Nix8810_M16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Nix8810_M16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Nix8810_M35-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Nix8810_M35-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Nix8810_M35.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Nix8810_M35.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_OlivettiThin_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_OlivettiThin_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_OlivettiThin_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_OlivettiThin_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_OlivettiThin_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_OlivettiThin_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_OlivettiThin_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_OlivettiThin_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Olivetti_M15-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Olivetti_M15-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Olivetti_M15.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Olivetti_M15.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Paradise132_7x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Paradise132_7x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Paradise132_7x9.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Paradise132_7x9.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Philips_YES_G-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Philips_YES_G-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Philips_YES_G-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Philips_YES_G-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Philips_YES_G.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Philips_YES_G.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Philips_YES_T-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Philips_YES_T-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Philips_YES_T.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Philips_YES_T.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_PhoenixEGA_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_PhoenixEGA_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_PhoenixEGA_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_PhoenixEGA_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_PhoenixEGA_8x8-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_PhoenixEGA_8x8-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_PhoenixEGA_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_PhoenixEGA_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_PhoenixEGA_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_PhoenixEGA_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_PhoenixVGA_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_PhoenixVGA_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_PhoenixVGA_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_PhoenixVGA_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_PhoenixVGA_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_PhoenixVGA_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_PhoenixVGA_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_PhoenixVGA_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_PhoenixVGA_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_PhoenixVGA_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_PhoenixVGA_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_PhoenixVGA_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Phoenix_BIOS-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Phoenix_BIOS-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Phoenix_BIOS.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Phoenix_BIOS.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Portfolio_6x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Portfolio_6x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Rainbow100_re_132.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Rainbow100_re_132.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Rainbow100_re_40.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Rainbow100_re_40.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Rainbow100_re_66.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Rainbow100_re_66.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Rainbow100_re_80.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Rainbow100_re_80.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_RM_Nimbus-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_RM_Nimbus-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_RM_Nimbus.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_RM_Nimbus.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Robotron_A7100.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Robotron_A7100.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_SanyoMBC16-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_SanyoMBC16-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_SanyoMBC16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_SanyoMBC16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_SanyoMBC55x-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_SanyoMBC55x-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_SanyoMBC55x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_SanyoMBC55x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_SanyoMBC775-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_SanyoMBC775-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_SanyoMBC775.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_SanyoMBC775.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_SeequaCm-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_SeequaCm-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_SeequaCm.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_SeequaCm.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Sharp_PC3K-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Sharp_PC3K-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Sharp_PC3K.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Sharp_PC3K.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Sharp_PC3K_Alt-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Sharp_PC3K_Alt-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Sharp_PC3K_Alt.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Sharp_PC3K_Alt.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Siemens_PC-D.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Siemens_PC-D.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Sigma_RM_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Sigma_RM_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Sigma_RM_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Sigma_RM_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Sigma_RM_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Sigma_RM_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Sigma_RM_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Sigma_RM_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Sigma_RM_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Sigma_RM_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Sigma_RM_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Sigma_RM_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_SperryPC_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_SperryPC_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_SperryPC_CGA-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_SperryPC_CGA-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_SperryPC_CGA.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_SperryPC_CGA.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_STB_AutoEGA_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_STB_AutoEGA_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_STB_AutoEGA_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_STB_AutoEGA_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy1K-II_200L-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy1K-II_200L-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy1K-II_200L-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy1K-II_200L-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy1K-II_200L.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy1K-II_200L.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy1K-II_225L-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy1K-II_225L-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy1K-II_225L.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy1K-II_225L.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy1K-II_Mono.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy1K-II_Mono.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy1K-I_200L-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy1K-I_200L-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy1K-I_200L-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy1K-I_200L-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy1K-I_200L.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy1K-I_200L.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy1K-I_225L-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy1K-I_225L-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy1K-I_225L.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy1K-I_225L.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy2K-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy2K-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy2K.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy2K.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy2K_G-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy2K_G-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy2K_G-TV.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy2K_G-TV.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Tandy2K_G.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Tandy2K_G.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_TelePC-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_TelePC-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_TelePC.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_TelePC.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Ti_Pro.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Ti_Pro.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaSat_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaSat_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaSat_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaSat_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaSat_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaSat_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaSat_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaSat_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaSat_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaSat_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaSat_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaSat_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaT300_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaT300_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaT300_8x8-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaT300_8x8-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaT300_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaT300_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaTxL1_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaTxL1_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaTxL1_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaTxL1_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaTxL2_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaTxL2_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_ToshibaTxL2_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_ToshibaTxL2_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_TridentEarly_8x11.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_TridentEarly_8x11.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_TridentEarly_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_TridentEarly_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_TridentEarly_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_TridentEarly_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_TridentEarly_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_TridentEarly_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_TridentEarly_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_TridentEarly_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_TridentEarly_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_TridentEarly_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_TridentEarly_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_TridentEarly_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Trident_8x11.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Trident_8x11.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Trident_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Trident_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Trident_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Trident_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Trident_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Trident_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Trident_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Trident_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Trident_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Trident_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Trident_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Trident_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_TsengEVA_132_6x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_TsengEVA_132_6x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_TsengEVA_132_6x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_TsengEVA_132_6x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Verite_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Verite_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Verite_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Verite_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Verite_8x8-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Verite_8x8-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Verite_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Verite_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Verite_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Verite_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Verite_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Verite_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Verite_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Verite_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_VTech_BIOS-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_VTech_BIOS-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_VTech_BIOS.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_VTech_BIOS.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Wang_Pro_Color-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Wang_Pro_Color-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Wang_Pro_Color.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Wang_Pro_Color.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Wang_Pro_Mono.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Wang_Pro_Mono.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Wyse700a-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Wyse700a-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Wyse700a.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Wyse700a.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Wyse700b-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Wyse700b-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Wyse700b.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Wyse700b.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Zenith_Z-100.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Zenith_Z-100.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/Web437_Zenith_Z-100_Alt.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\Web437_Zenith_Z-100_Alt.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Amstrad_PC-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Amstrad_PC-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Amstrad_PC.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Amstrad_PC.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_AST_PremiumExec.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_AST_PremiumExec.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Cordata_PPC-21.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Cordata_PPC-21.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Cordata_PPC-400.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Cordata_PPC-400.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_HP_100LX_10x11.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_HP_100LX_10x11.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_HP_100LX_16x12.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_HP_100LX_16x12.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_HP_100LX_6x8-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_HP_100LX_6x8-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_HP_100LX_6x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_HP_100LX_6x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_HP_100LX_8x8-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_HP_100LX_8x8-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_HP_100LX_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_HP_100LX_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_HP_150_re.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_HP_150_re.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_BIOS-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_BIOS-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_BIOS-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_BIOS-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_BIOS.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_BIOS.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_CGA-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_CGA-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_CGA.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_CGA.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_CGAthin-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_CGAthin-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_CGAthin.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_CGAthin.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_EGA_8x14-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_EGA_8x14-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_EGA_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_EGA_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_EGA_8x8-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_EGA_8x8-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_EGA_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_EGA_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_EGA_9x14-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_EGA_9x14-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_EGA_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_EGA_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_EGA_9x8-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_EGA_9x8-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_EGA_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_EGA_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_MDA.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_MDA.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_VGA_8x14-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_VGA_8x14-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_VGA_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_VGA_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_VGA_8x16-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_VGA_8x16-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_VGA_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_VGA_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_VGA_9x14-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_VGA_9x14-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_VGA_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_VGA_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_VGA_9x16-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_VGA_9x16-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_VGA_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_VGA_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_VGA_9x8-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_VGA_9x8-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_VGA_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_VGA_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_IBM_XGA-AI_12x20.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_IBM_XGA-AI_12x20.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Rainbow100_re_132.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Rainbow100_re_132.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Rainbow100_re_40.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Rainbow100_re_40.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Rainbow100_re_66.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Rainbow100_re_66.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Rainbow100_re_80.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Rainbow100_re_80.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Tandy1K-II_200L-2x.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Tandy1K-II_200L-2x.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Tandy1K-II_200L-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Tandy1K-II_200L-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Tandy1K-II_200L.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Tandy1K-II_200L.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Tandy1K-II_225L-2y.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Tandy1K-II_225L-2y.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_Tandy1K-II_225L.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_Tandy1K-II_225L.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_ToshibaSat_8x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_ToshibaSat_8x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_ToshibaSat_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_ToshibaSat_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_ToshibaSat_8x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_ToshibaSat_8x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_ToshibaSat_9x14.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_ToshibaSat_9x14.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_ToshibaSat_9x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_ToshibaSat_9x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_ToshibaSat_9x8.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_ToshibaSat_9x8.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_ToshibaTxL1_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_ToshibaTxL1_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/pixelfonts/WebPlus_ToshibaTxL2_8x16.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\pixelfonts\WebPlus_ToshibaTxL2_8x16.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/fonts/Pixel_NES.eot
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\Pixel_NES-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dimden.dev/fonts/Pixel_NES.eot?
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\Pixel_NES.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dimden.dev/fonts/Pixel_NES.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\Pixel_NES.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/fonts/Pixel_NES.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\fonts\Pixel_NES.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/gallery/
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/gallery/020097d87b.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\020097d87b.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/2KZTgtsePqE.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\2KZTgtsePqE.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/3a22b7fbba9314be.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\3a22b7fbba9314be.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/799a2a62-bb4b-4688-8cc6-e18a91134d02.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\799a2a62-bb4b-4688-8cc6-e18a91134d02.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/9a2ccd4e-e15e-44c0-be06-fce784c0737a.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\9a2ccd4e-e15e-44c0-be06-fce784c0737a.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/a07e9222-eb5e-44db-a05e-394cbf6800bf.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\a07e9222-eb5e-44db-a05e-394cbf6800bf.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/akakakaka.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\akakakaka.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/autumn.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\autumn.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/berriecuddle.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\berriecuddle.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/bfb89f1bf51c2c65.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\bfb89f1bf51c2c65.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/cake.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\cake.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/christmas.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\christmas.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/click-click.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\click-click.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/gallery/coreling.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\coreling.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/cozydimden.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\cozydimden.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/CSlw1gwB.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\CSlw1gwB.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/cuties.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\cuties.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/d1.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\d1.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/damden.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\damden.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/denbirthth.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\denbirthth.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/densmas.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\densmas.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/dimden.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\dimden.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/gallery/dimdenanime.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\dimdenanime.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/dimdenn.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\dimdenn.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/dimdenrl.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\dimdenrl.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/duwu.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\duwu.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/F0FQG0GWIAENPmg.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\F0FQG0GWIAENPmg.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/F0IffYcWcAAHZsX.jpg?
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\F0IffYcWcAAHZsX.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/F0IJoVRXsBUhxSR.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\F0IJoVRXsBUhxSR.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/F1PZd3aWAAAJMqI.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\F1PZd3aWAAAJMqI.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/F1Q0vyXXgAEjVX5.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\F1Q0vyXXgAEjVX5.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/F1QO6EmWIAI_fN_.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\F1QO6EmWIAI_fN_.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/F1SDPsQWcAEsd0J.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\F1SDPsQWcAEsd0J.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/F71pVeGbwAAa8Cw.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\F71pVeGbwAAa8Cw.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/F7e-feDaUAAcVLy.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\F7e-feDaUAAcVLy.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/fnf.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\fnf.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/GHaJIQTa4AAOPrS.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\GHaJIQTa4AAOPrS.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/GS2Rj4nc.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\GS2Rj4nc.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/GSpr30ma8AAZkZK.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\GSpr30ma8AAZkZK.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/halp.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\halp.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/help.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\help.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/homeless.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\homeless.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/image (10).png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\image (10).png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/imgonnaridedimden2.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\imgonnaridedimden2.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/IMG_0557.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\IMG_0557.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/IMG_0603.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\IMG_0603.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/IMG_5555.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\IMG_5555.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/jjj.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\jjj.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/me1.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\me1.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/me4.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\me4.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/me5.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\me5.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/me6.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\me6.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/me8.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\me8.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/msdindn.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\msdindn.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/naruto.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\naruto.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/OTZemD4.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\OTZemD4.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/pixelart.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\pixelart.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/resized-1690286158946-3.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\resized-1690286158946-3.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/rn_image_picker_lib_temp_691c6b91-1f63-4c82-903d-399c02630006.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\rn_image_picker_lib_temp_691c6b91-1f63-4c82-903d-399c02630006.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/rtretfdg.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\rtretfdg.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/salami.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\salami.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/gallery/sketch-1556223743348.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\sketch-1556223743348.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/smol.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\smol.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/super_awesome_dimden.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\super_awesome_dimden.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/transparentden.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\transparentden.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/Untitled296_20220711035755.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\Untitled296_20220711035755.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/Untitled75_20210703014513.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\Untitled75_20210703014513.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/vampden.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\vampden.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/why.png
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\why.png
+Content Type: image/png
+
+Uri: https://dimden.dev/gallery/Zznsh0_ZVqs.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\gallery\Zznsh0_ZVqs.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/grillbys/
+File Name: C:\Downloaded Web Sites\dimden.dev\grillbys\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/grillbys/gif.js
+File Name: C:\Downloaded Web Sites\dimden.dev\grillbys\gif.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/grillbys/script.js?50
+File Name: C:\Downloaded Web Sites\dimden.dev\grillbys\script.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/hc
+File Name: C:\Downloaded Web Sites\dimden.dev\hc.html
+Content Type: text/html
+
+Uri: https://dimden.dev/highlight/highlight.pack.js
+File Name: C:\Downloaded Web Sites\dimden.dev\highlight\highlight.pack.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/highlight/styles/atom-one-dark.css
+File Name: C:\Downloaded Web Sites\dimden.dev\highlight\styles\atom-one-dark.css
+Content Type: text/css
+
+Uri: https://dimden.dev/images/banners/neocities.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\banners\neocities.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/basketball.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\basketball.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/bg.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\bg.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/BUTLER.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\BUTLER.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/buttons/amapy.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\amapy.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/apfel-button.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\apfel-button.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/buttons/asswolf_txt.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\asswolf_txt.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/atlas.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\atlas.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/beekeeping_in_ukraine.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\beekeeping_in_ukraine.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/best_chrome.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\best_chrome.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/cinni.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\cinni.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/dabun.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\dabun.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/debian.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\debian.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/fauux.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\fauux.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/gaygoogle.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\gaygoogle.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/jquery.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\jquery.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/krisbtn.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\krisbtn.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/buttons/madewithnotepad2.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\madewithnotepad2.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/mm4rk3t.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\mm4rk3t.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/neocities.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\neocities.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/OneShot_button.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\OneShot_button.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/phonechump.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\phonechump.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/poclbutton.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\poclbutton.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/Rain_World_button.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\Rain_World_button.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/rinnbnnr.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\rinnbnnr.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/images/buttons/uexpress.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\uexpress.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/buttons/undertale.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\undertale.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/buttons/win95.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\buttons\win95.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/chat.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\chat.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/clickanywhere.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\clickanywhere.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/clock.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\clock.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/clockbg.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\clockbg.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/desert.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\desert.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/dimden.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\dimden.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/dimdenomori2.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\dimdenomori2.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/dimdenpfp.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\images\dimdenpfp.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/images/Dirt_background_JE2.webp
+File Name: C:\Downloaded Web Sites\dimden.dev\images\Dirt_background_JE2.webp
+Content Type: image/webp
+
+Uri: https://dimden.dev/images/electricity_on.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\electricity_on.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/feedicon.svg
+File Name: C:\Downloaded Web Sites\dimden.dev\images\feedicon.svg
+Content Type: image/svg+xml
+
+Uri: https://dimden.dev/images/gods_grace.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\images\gods_grace.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/images/gods_grace2c.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\images\gods_grace2c.jpg
+Content Type: image/jpeg
+
+Uri: https://dimden.dev/images/kelvin.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\kelvin.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/kelvinfull.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\kelvinfull.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/letters/D1.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\letters\D1.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/letters/D2.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\letters\D2.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/letters/E.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\letters\E.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/letters/IM.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\letters\IM.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/letters/N.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\letters\N.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/mail.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\mail.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/meow_knob.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\meow_knob.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/mewo.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\mewo.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/minecraftblock.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\minecraftblock.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/moon.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\moon.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/moon/moon3.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\moon\moon3.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/overlay.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\overlay.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/overlay2.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\overlay2.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/patreon.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\patreon.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/platform.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\platform.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/realsun.webp
+File Name: C:\Downloaded Web Sites\dimden.dev\images\realsun.webp
+Content Type: image/webp
+
+Uri: https://dimden.dev/images/s1.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\s1.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/s2.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\s2.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/s3.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\s3.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/slugcat.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\slugcat.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/smoldimden.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\smoldimden.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/static-tv.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\static-tv.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/sulphur.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\sulphur.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/thesun.webp
+File Name: C:\Downloaded Web Sites\dimden.dev\images\thesun.webp
+Content Type: image/webp
+
+Uri: https://dimden.dev/images/thesunsmall.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\thesunsmall.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/toby.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\toby.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/tv.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\images\tv.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/images/undertalevar.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\undertalevar.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/warpstar.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\warpstar.png
+Content Type: image/png
+
+Uri: https://dimden.dev/images/wires.png
+File Name: C:\Downloaded Web Sites\dimden.dev\images\wires.png
+Content Type: image/png
+
+Uri: https://dimden.dev/japanese/grammar/quiz.css
+File Name: C:\Downloaded Web Sites\dimden.dev\japanese\grammar\quiz.css
+Content Type: text/css
+
+Uri: https://dimden.dev/japanese/grammar/quiz.js?1
+File Name: C:\Downloaded Web Sites\dimden.dev\japanese\grammar\quiz.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/japanese/grammar/verbs.html
+File Name: C:\Downloaded Web Sites\dimden.dev\japanese\grammar\verbs.html
+Content Type: text/html
+
+Uri: https://dimden.dev/js/aboutbg.js
+File Name: C:\Downloaded Web Sites\dimden.dev\js\aboutbg.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/js/moon.js
+File Name: C:\Downloaded Web Sites\dimden.dev\js\moon.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/js/oneko.compiled.js
+File Name: C:\Downloaded Web Sites\dimden.dev\js\oneko.compiled.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/js/polyfills.js
+File Name: C:\Downloaded Web Sites\dimden.dev\js\polyfills.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/js/rain.js?6
+File Name: C:\Downloaded Web Sites\dimden.dev\js\rain.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/js/script.compiled.js
+File Name: C:\Downloaded Web Sites\dimden.dev\js\script.compiled.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/js/script.compiled.js?16
+File Name: C:\Downloaded Web Sites\dimden.dev\js\script.compiled-1.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/logo.js
+File Name: C:\Downloaded Web Sites\dimden.dev\logo.js
+Content Type: application/javascript
+
+Uri: https://dimden.dev/logo.png
+File Name: C:\Downloaded Web Sites\dimden.dev\logo.png
+Content Type: image/png
+
+Uri: https://dimden.dev/magic.html
+File Name: C:\Downloaded Web Sites\dimden.dev\magic.html
+Content Type: text/html
+
+Uri: https://dimden.dev/moon
+File Name: C:\Downloaded Web Sites\dimden.dev\moon.html
+Content Type: text/html
+
+Uri: https://dimden.dev/moon?custom=1
+File Name: C:\Downloaded Web Sites\dimden.dev\moon-1.html
+Content Type: text/html
+
+Uri: https://dimden.dev/moonwidget/
+File Name: C:\Downloaded Web Sites\dimden.dev\moonwidget\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/navlinkads/
+File Name: C:\Downloaded Web Sites\dimden.dev\navlinkads\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/overlay.png
+File Name: C:\Downloaded Web Sites\dimden.dev\overlay.png
+Content Type: image/png
+
+Uri: https://dimden.dev/overlay2.png
+File Name: C:\Downloaded Web Sites\dimden.dev\overlay2.png
+Content Type: image/png
+
+Uri: https://dimden.dev/Pixel_NES.eot?
+File Name: C:\Downloaded Web Sites\dimden.dev\Pixel_NES.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dimden.dev/Pixel_NES.svg
+File Name: C:\Downloaded Web Sites\dimden.dev\Pixel_NES.svg
+Content Type: image/svg+xml
+
+Uri: https://dimden.dev/Pixel_NES.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\Pixel_NES.ttf
+Content Type: font/ttf
+
+Uri: https://dimden.dev/Pixel_NES.woff
+File Name: C:\Downloaded Web Sites\dimden.dev\Pixel_NES.woff
+Content Type: font/woff
+
+Uri: https://dimden.dev/puzzle3/
+File Name: C:\Downloaded Web Sites\dimden.dev\puzzle3\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/rainsong/
+File Name: C:\Downloaded Web Sites\dimden.dev\rainsong\index.htm
+Content Type: text/html
+
+Uri: https://dimden.dev/rainsong/Rain_Song.png
+File Name: C:\Downloaded Web Sites\dimden.dev\rainsong\Rain_Song.png
+Content Type: image/png
+
+Uri: https://dimden.dev/rss.xml
+File Name: C:\Downloaded Web Sites\dimden.dev\rss.xml
+Content Type: application/xml
+
+Uri: https://dimden.dev/services/images/88x31.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\services\images\88x31.gif
+Content Type: image/gif
+
+Uri: https://dimden.dev/smoldimden.png
+File Name: C:\Downloaded Web Sites\dimden.dev\smoldimden.png
+Content Type: image/png
+
+Uri: https://dimden.dev/sounds/clock.mp3
+File Name: C:\Downloaded Web Sites\dimden.dev\sounds\clock.mp3
+Content Type: audio/mpeg
+
+Uri: https://dimden.dev/sounds/livinginthelight.mp3
+File Name: C:\Downloaded Web Sites\dimden.dev\sounds\livinginthelight.mp3
+Content Type: audio/mpeg
+
+Uri: https://dimden.dev/stylesheet.css
+File Name: C:\Downloaded Web Sites\dimden.dev\stylesheet.css
+Content Type: text/css
+
+Uri: https://dimden.dev/sun.html
+File Name: C:\Downloaded Web Sites\dimden.dev\sun.html
+Content Type: text/html
+
+Uri: https://dimden.dev/tv.html
+File Name: C:\Downloaded Web Sites\dimden.dev\tv.html
+Content Type: text/html
+
+Uri: https://dimden.dev/videos/complex_smaller.mp4
+File Name: C:\Downloaded Web Sites\dimden.dev\videos\complex_smaller.mp4
+Content Type: video/mp4
+
+Uri: https://dimden.dev/warm.html
+File Name: C:\Downloaded Web Sites\dimden.dev\warm.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\dimden.dev\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway
+File Name: C:\Downloaded Web Sites\dimden.dev\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Work+Sans
+File Name: C:\Downloaded Web Sites\dimden.dev\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v54/-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFBEj75s.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\s\notosansjp\v54\-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFBEj75s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v54/-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFPYk75s.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\s\notosansjp\v54\-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFPYk75s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v23/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\dimden.dev\s\worksans\v23\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://i.imgur.com/0HHKo5U.png
+File Name: C:\Downloaded Web Sites\dimden.dev\0HHKo5U.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/2ceQo2Y.png
+File Name: C:\Downloaded Web Sites\dimden.dev\2ceQo2Y.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/3mljCXG.png
+File Name: C:\Downloaded Web Sites\dimden.dev\3mljCXG.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/506twsd.png
+File Name: C:\Downloaded Web Sites\dimden.dev\506twsd.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/an27j2z.png
+File Name: C:\Downloaded Web Sites\dimden.dev\an27j2z.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/b7fqyWz.png
+File Name: C:\Downloaded Web Sites\dimden.dev\b7fqyWz.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/bNvc3qk.png
+File Name: C:\Downloaded Web Sites\dimden.dev\bNvc3qk.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/BPbpRYL.png
+File Name: C:\Downloaded Web Sites\dimden.dev\BPbpRYL.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/E5nhT06.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\E5nhT06.gif
+Content Type: image/gif
+
+Uri: https://i.imgur.com/ejAMK9R.png
+File Name: C:\Downloaded Web Sites\dimden.dev\ejAMK9R.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/erFwgb4.png
+File Name: C:\Downloaded Web Sites\dimden.dev\erFwgb4.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/fLIDRsT.png
+File Name: C:\Downloaded Web Sites\dimden.dev\fLIDRsT.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/hyMsgDp.png
+File Name: C:\Downloaded Web Sites\dimden.dev\hyMsgDp.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/KOgqsvx.png
+File Name: C:\Downloaded Web Sites\dimden.dev\KOgqsvx.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/LQVtMPQ.png
+File Name: C:\Downloaded Web Sites\dimden.dev\LQVtMPQ.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/MUGthOu.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\MUGthOu.gif
+Content Type: image/gif
+
+Uri: https://i.imgur.com/PvIsICU.png
+File Name: C:\Downloaded Web Sites\dimden.dev\PvIsICU.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/rNV2NuL.png
+File Name: C:\Downloaded Web Sites\dimden.dev\rNV2NuL.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/RU7slN0.png
+File Name: C:\Downloaded Web Sites\dimden.dev\RU7slN0.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/svw0Zsa.png
+File Name: C:\Downloaded Web Sites\dimden.dev\svw0Zsa.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/tS1Vi7B.png
+File Name: C:\Downloaded Web Sites\dimden.dev\tS1Vi7B.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/YJiYKyY.png
+File Name: C:\Downloaded Web Sites\dimden.dev\YJiYKyY.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/YSTpqlX.png
+File Name: C:\Downloaded Web Sites\dimden.dev\YSTpqlX.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/YZNxfDw.png
+File Name: C:\Downloaded Web Sites\dimden.dev\YZNxfDw.png
+Content Type: image/png
+
+Uri: https://incr.easrng.net/bg.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\bg.gif
+Content Type: image/gif
+
+Uri: https://lastfm.freetls.fastly.net/i/u/34s/4a740f7576b822cb167425ddf056458e.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\i\u\34s\4a740f7576b822cb167425ddf056458e.jpg
+Content Type: image/jpeg
+
+Uri: https://lune.dimden.dev/315e75f5c7.png
+File Name: C:\Downloaded Web Sites\dimden.dev\315e75f5c7.png
+Content Type: image/png
+
+Uri: https://lune.dimden.dev/a603d8e3fee7.png
+File Name: C:\Downloaded Web Sites\dimden.dev\a603d8e3fee7.png
+Content Type: image/png
+
+Uri: https://lune.dimden.dev/a8695869da24.mp4
+File Name: C:\Downloaded Web Sites\dimden.dev\a8695869da24.mp4
+Content Type: video/mp4
+
+Uri: https://lune.dimden.dev/b1cf0b6c4a.png
+File Name: C:\Downloaded Web Sites\dimden.dev\b1cf0b6c4a.png
+Content Type: image/png
+
+Uri: https://lune.dimden.dev/d6d0b71595.png
+File Name: C:\Downloaded Web Sites\dimden.dev\d6d0b71595.png
+Content Type: image/png
+
+Uri: https://lune.dimden.dev/dacf9dd646.png
+File Name: C:\Downloaded Web Sites\dimden.dev\dacf9dd646.png
+Content Type: image/png
+
+Uri: https://lune.dimden.dev/moon.mp4
+File Name: C:\Downloaded Web Sites\dimden.dev\moon.mp4
+Content Type: video/mp4
+
+Uri: https://melankorin.net/assets/img/buttons/button-1.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\assets\img\buttons\button-1.gif
+Content Type: image/gif
+
+Uri: https://melps.neocities.org/limk1.jpg
+File Name: C:\Downloaded Web Sites\dimden.dev\limk1.jpg
+Content Type: image/jpeg
+
+Uri: https://meows.zip/meowszip.png
+File Name: C:\Downloaded Web Sites\dimden.dev\meowszip.png
+Content Type: image/png
+
+Uri: https://mood.dimden.dev/fbemoji/sus.png
+File Name: C:\Downloaded Web Sites\dimden.dev\fbemoji\sus.png
+Content Type: image/png
+
+Uri: https://natu.moe/img/natumoe.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\img\natumoe.gif
+Content Type: image/gif
+
+Uri: https://nekoweb.org/assets/buttons/button6.gif
+File Name: C:\Downloaded Web Sites\dimden.dev\assets\buttons\button6.gif
+Content Type: image/gif
+
+Uri: https://top.gg/api/widget/541969002734419989.svg
+File Name: C:\Downloaded Web Sites\dimden.dev\api\widget\541969002734419989.svg
+Content Type: image/png
+
+Uri: https://unpkg.com/highlightjs-svelte@1.0.6/dist/svelte.min.js
+File Name: C:\Downloaded Web Sites\dimden.dev\highlightjs-svelte@1.0.6\dist\svelte.min.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/wanakana@5.1.0/wanakana.min.js
+File Name: C:\Downloaded Web Sites\dimden.dev\wanakana@5.1.0\wanakana.min.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-137155489-1
+File Name: C:\Downloaded Web Sites\dimden.dev\gtag\js
+Content Type: application/javascript
+
